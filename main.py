@@ -1,4 +1,4 @@
 print("Hello World!!")
 
-def fun:
+def fun(a):
 	print("goti")
